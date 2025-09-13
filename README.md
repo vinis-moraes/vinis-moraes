@@ -1,1 +1,4 @@
-Doing some crazy shit everyday
+Brazilian developer. 
+Web and Desktop applications.
+HTML, CSS, JS, PHP
+C-ish, Python, Java
